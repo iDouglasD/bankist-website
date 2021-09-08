@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Website de banco minimalista desenvolvido no curso de JavaScript de Jonas Schmedtmann com recursos avançados de DOM e Events.
+Website de marketing em Vanilla JavaScript do banco minimalista desenvolvido no curso de JavaScript de Jonas Schmedtmann com recursos avançados de DOM e Events.
 
 ## 🔖 Layout
 
